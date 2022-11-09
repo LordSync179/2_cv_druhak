@@ -1,0 +1,155 @@
+namespace CvUkol1
+{
+    class Krava
+    {
+        public string jmeno;
+        public int vaha;
+        public int id;
+        public string chov;
+
+        public Krava(string Jmeno, int Vaha, int Id, string Chov)
+        {
+            jmeno = Jmeno;
+            vaha = Vaha;
+            id = Id;
+            chov = Chov;
+        }
+        public void zvuk()
+        {
+            Console.WriteLine("Kráva vydává zvuk: boooo");
+        }
+        public void vypis()
+        {
+            Console.WriteLine("Kráva se jmenuje: " + jmeno);
+            Console.WriteLine("Kráva má váhu: " + vaha);
+            Console.WriteLine("Kráva má id: " + id);
+            Console.WriteLine("Kráva je určena k chovu: " + chov);
+        }
+        public void prejmenovani()
+        {
+            Console.WriteLine("Pokud chcete krávu přejmenovat napiste 1, pokud ne 2");
+            int vyber = int.Parse(Console.ReadLine());
+            if (vyber == 1)
+            {
+                Console.WriteLine("Přejmenujte Krávu: ");
+                string rename = Console.ReadLine();
+                Console.WriteLine("Kráva se nyní jmenuje: " + rename);
+            }
+            else
+            {
+                Console.WriteLine("Krávě zůstává původní jméno");
+            }
+        }
+    }
+    class Prase
+    {
+        public string jmeno;
+        public int vaha;
+        public int id;
+        public string chov;
+
+        public Prase(string Jmeno, int Vaha, int Id, string Chov)
+        {
+            jmeno = Jmeno;
+            vaha = Vaha;
+            id = Id;
+            chov = Chov;
+        }
+        public void zvuk()
+        {
+            Console.WriteLine("Prase vydává zvuk: chrochro");
+        }
+        public void vypis()
+        {
+            Console.WriteLine("Prase se jmenuje: " + jmeno);
+            Console.WriteLine("Prase má váhu: " + vaha);
+            Console.WriteLine("Prase má id: " + id);
+            Console.WriteLine("Prase je určena k chovu: " + chov);
+        }
+        public void prejmenovani()
+        {
+            Console.WriteLine("Pokud chcete Prase přejmenovat napiste 1, pokud ne 2");
+            int vyber = int.Parse(Console.ReadLine());
+            if (vyber == 1)
+            {
+                Console.WriteLine("Přejmenujte Prase: ");
+                string rename = Console.ReadLine();
+                Console.WriteLine("Prase se nyní jmenuje: " + rename);
+            }
+            else
+            {
+                Console.WriteLine("Praseti zůstává původní jméno");
+            }
+        }
+    }
+    class Ovce
+    {
+        public string jmeno;
+        public int vaha;
+        public int id;
+        public string chov;
+
+        public Ovce(string Jmeno, int Vaha, int Id, string Chov)
+        {
+            jmeno = Jmeno;
+            vaha = Vaha;
+            id = Id;
+            chov = Chov;
+        }
+        public void zvuk()
+        {
+            Console.WriteLine("Ovce vydává zvuk: meeeeh");
+        }
+        public void vypis()
+        {
+            Console.WriteLine("Ovce se jmenuje: " + jmeno);
+            Console.WriteLine("Ovce má váhu: " + vaha);
+            Console.WriteLine("Ovce má id: " + id);
+            Console.WriteLine("Ovce je určena k chovu: " + chov);
+        }
+        public void prejmenovani()
+        {
+            Console.WriteLine("Pokud chcete Ovci přejmenovat napiste 1, pokud ne 2");
+            int vyber = int.Parse(Console.ReadLine());
+            if (vyber == 1)
+            {
+                Console.WriteLine("Přejmenujte Ovci: ");
+                string rename = Console.ReadLine();
+                Console.WriteLine("Ovce se nyní jmenuje: " + rename);
+            }
+            else
+            {
+                Console.WriteLine("Ovci zůstává původní jméno");
+            }
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Krava krava1 = new Krava("Hana", 150, 1, "Mléko");
+            Krava krava2 = new Krava("Jana", 180, 2, "Mléko");
+            Krava krava3 = new Krava("Lenka", 140, 3, "Mléko");
+
+            krava3.vypis();
+            krava3.zvuk();
+            krava3.prejmenovani();
+
+            Prase prase1 = new Prase("Honza", 200, 4, "Maso");
+            Prase prase2 = new Prase("Karel", 220, 5, "Maso");
+            Prase prase3 = new Prase("Jakub", 145, 6, "Maso");
+
+            prase2.vypis();
+            prase2.zvuk();
+            prase2.prejmenovani();
+
+            Ovce ovce1 = new Ovce("Lucie", 70, 7, "Vlna");
+            Ovce ovce2 = new Ovce("Eva", 90, 8, "Maso");
+            Ovce ovce3 = new Ovce("Drahomíra", 132, 9, "Vlna");
+
+            ovce1.vypis();
+            ovce1.zvuk();
+            ovce1.prejmenovani();
+        }
+    }
+}
