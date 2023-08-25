@@ -1,1 +1,2 @@
 0260. ✨ feat: create admin dashboard
+0908. ♻️ chore: bump dependencies
