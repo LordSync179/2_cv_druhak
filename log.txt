@@ -1,2 +1,3 @@
 0260. ✨ feat: create admin dashboard
 0908. ♻️ chore: bump dependencies
+0485. 📚 docs: update README with setup steps
