@@ -2,3 +2,4 @@
 0908. ♻️ chore: bump dependencies
 0485. 📚 docs: update README with setup steps
 0918. ✨ feat: enable dark mode toggle
+0986. 📚 docs: document token refresh logic
