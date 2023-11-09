@@ -18,3 +18,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0369. 🎨 style: standardize quote style
 0967. ♻️ chore: add GitHub actions badge
+0919. 🚀 perf: optimize database query for quiz results
