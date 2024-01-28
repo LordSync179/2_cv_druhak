@@ -32,3 +32,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0935. 📚 docs: update README with setup steps
 0834. ✅ test: increase coverage on auth module
+0978. 🐛 fix: prevent crash on empty input
