@@ -63,3 +63,4 @@
 0964. ♻️ chore: clean up unused files
 0693. 📚 docs: add API usage examples
 0950. 🎨 style: reformat files with black
+0286. ✅ test: mock database connection in test suite
