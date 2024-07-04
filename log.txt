@@ -64,3 +64,4 @@
 0693. 📚 docs: add API usage examples
 0950. 🎨 style: reformat files with black
 0286. ✅ test: mock database connection in test suite
+0434. 📚 docs: document token refresh logic
