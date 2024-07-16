@@ -67,3 +67,4 @@
 0434. 📚 docs: document token refresh logic
 0259. 🚀 perf: lazy-load components
 0708. ✅ test: add integration test for /submit endpoint
+0898. 🐛 fix: fix broken CSS in mobile view
