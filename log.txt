@@ -80,3 +80,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0186. ✅ test: test user registration edge cases
 0663. 🚀 perf: reduce image load time
+0677. 📚 docs: add API usage examples
