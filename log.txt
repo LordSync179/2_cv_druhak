@@ -88,3 +88,4 @@
 0287. 📚 docs: write FAQ section
 0763. 🔧 refactor: organize models into subfolders
 0110. 🐛 fix: prevent crash on empty input
+0377. ✨ feat: add user authentication
