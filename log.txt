@@ -90,3 +90,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0377. ✨ feat: add user authentication
 0526. ✨ feat: add user authentication
+0673. 🐛 fix: correct typo in registration form
