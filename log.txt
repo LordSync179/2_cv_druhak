@@ -96,3 +96,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0838. 🎨 style: standardize quote style
 0697. ♻️ chore: bump dependencies
+0544. 🔧 refactor: organize models into subfolders
