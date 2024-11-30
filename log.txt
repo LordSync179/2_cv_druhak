@@ -105,3 +105,4 @@
 0992. ♻️ chore: clean up unused files
 0198. 📚 docs: clarify environment setup
 0698. 🐛 fix: handle 500 error in quiz API
+0495. 🔧 refactor: remove redundant code blocks
