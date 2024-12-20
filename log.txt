@@ -111,3 +111,4 @@
 0685. ✅ test: test user registration edge cases
 0328. 🐛 fix: resolve issue with date parsing
 0177. 📚 docs: add API usage examples
+0312. ✨ feat: add user authentication
