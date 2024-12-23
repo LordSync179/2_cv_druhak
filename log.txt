@@ -112,3 +112,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0177. 📚 docs: add API usage examples
 0312. ✨ feat: add user authentication
+0902. ✨ feat: enable dark mode toggle
