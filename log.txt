@@ -122,3 +122,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0847. ♻️ chore: clean up unused files
 0787. ♻️ chore: rename env.example
+0751. 🐛 fix: handle 500 error in quiz API
