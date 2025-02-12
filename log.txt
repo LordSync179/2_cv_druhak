@@ -125,3 +125,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0576. ♻️ chore: update .gitignore
 0023. 📚 docs: clarify environment setup
+1000. ✅ test: increase coverage on auth module
