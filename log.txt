@@ -126,3 +126,4 @@
 0576. ♻️ chore: update .gitignore
 0023. 📚 docs: clarify environment setup
 1000. ✅ test: increase coverage on auth module
+0410. 🎨 style: reformat files with black
