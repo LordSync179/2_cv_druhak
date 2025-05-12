@@ -147,3 +147,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0607. 🐛 fix: prevent crash on empty input
 0477. 🐛 fix: fix broken CSS in mobile view
+0574. ✨ feat: enable dark mode toggle
