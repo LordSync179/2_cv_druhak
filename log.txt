@@ -163,3 +163,4 @@
 0660. 🐛 fix: correct typo in registration form
 0503. ♻️ chore: rename env.example
 0210. 🎨 style: apply consistent indentation
+0814. 🔧 refactor: remove redundant code blocks
