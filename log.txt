@@ -168,3 +168,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0478. 🐛 fix: resolve issue with date parsing
 0497. 🔧 refactor: refactor quiz grading logic
+0514. 🐛 fix: fix broken CSS in mobile view
