@@ -175,3 +175,4 @@
 0561. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
 0147. ♻️ chore: bump dependencies
+0370. 🚀 perf: reduce image load time
