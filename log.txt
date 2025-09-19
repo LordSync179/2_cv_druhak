@@ -176,3 +176,4 @@
 0233. 🚀 perf: lazy-load components
 0147. ♻️ chore: bump dependencies
 0370. 🚀 perf: reduce image load time
+0360. ✨ feat: add export to CSV option
