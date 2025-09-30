@@ -178,3 +178,4 @@
 0370. 🚀 perf: reduce image load time
 0360. ✨ feat: add export to CSV option
 0594. 🎨 style: reformat files with black
+0767. 🔧 refactor: remove redundant code blocks
