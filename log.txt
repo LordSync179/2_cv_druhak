@@ -179,3 +179,4 @@
 0360. ✨ feat: add export to CSV option
 0594. 🎨 style: reformat files with black
 0767. 🔧 refactor: remove redundant code blocks
+0346. ✅ test: mock database connection in test suite
