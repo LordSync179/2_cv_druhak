@@ -180,3 +180,4 @@
 0594. 🎨 style: reformat files with black
 0767. 🔧 refactor: remove redundant code blocks
 0346. ✅ test: mock database connection in test suite
+0356. 📚 docs: write FAQ section
