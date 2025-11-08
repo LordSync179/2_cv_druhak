@@ -189,3 +189,4 @@
 0599. ✅ test: test user registration edge cases
 0283. ♻️ chore: add GitHub actions badge
 0987. ✨ feat: create admin dashboard
+0534. 🔧 refactor: split large controller into smaller functions
